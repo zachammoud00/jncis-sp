@@ -24,6 +24,6 @@ jncis-sp
 |
 |--- Junos Intermediate Routing
       |--- Routing Fundamentals
-            |---
+      |    |---
       |
 ```
