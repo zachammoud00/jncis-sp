@@ -25,17 +25,23 @@ Each lab directory contains:
 This repository will follow the same structure as the Service Provider Routing and Switching, Specialist (JNCIS-SP) Certification Overview document on the HPE website (https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=14325).
 
 ```
-jncis-sp
-|
-|--- junos_intermediate_routing
-      |--- protocol_independent_routing
-      |    |--- static_aggregate_generated_routes
-      |    |    |--- static_routes.md
-      |    |    |--- aggregate_routes.md
-      |    |    |--- generated_routes.md    
-      |    |--- martian_addresses
-      |    |--- routing_instances 
-      |    |--- load_balancing
-      |    |--- filter_based_forwarding
-      |
+jncis-sp/
+└── junos_intermediate_routing/
+    └── protocol_independent_routing/
+        └── static_aggregate_generated_routes/
+            ├── static_routes/
+            │   ├── notes.md
+            │   ├── questions.md
+            │   ├── lab.md
+            │   └── configuration.md
+            ├── aggregate_routes/
+            │   ├── notes.md
+            │   ├── questions.md
+            │   ├── lab.md
+            │   └── configuration.md
+            └── generated_routes/
+                ├── notes.md
+                ├── questions.md
+                ├── lab.md
+                └── configuration.md
 ```
