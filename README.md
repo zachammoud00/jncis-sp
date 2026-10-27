@@ -25,11 +25,11 @@ Each lab directory contains:
 ```
 jncis-sp
 |
-|--- Junos Intermediate Routing
-      |--- Protocol Independent Routing
-      |    |--- Static, aggregate and generated routes
-      |    |--- Martian addresses
-```   |    |--- Routing instances, including routing information base (RIB) 
-      |    |--- Load balancing
-      |    |--- Filter-based forwarding
+|--- junos_intermediate_routing
+      |--- protocol_independent_routing
+      |    |--- static_aggregate_generated_routes
+      |    |--- martian_addresses
+```   |    |--- routing_instances 
+      |    |--- load_balancing
+      |    |--- filter_based_forwarding
       |
