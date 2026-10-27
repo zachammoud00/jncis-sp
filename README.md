@@ -20,7 +20,7 @@ Each lab directory contains:
 
 **Topology & Configs:** network topology and initial/final device configurations.
 
-## Repository Structure
+## 🪾 Repository Structure
 
 This repository will follow the same structure as the Service Provider Routing and Switching, Specialist (JNCIS-SP) Certification Overview document on the HPE website (https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=14325).
 
