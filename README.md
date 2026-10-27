@@ -30,8 +30,12 @@ jncis-sp
 |--- junos_intermediate_routing
       |--- protocol_independent_routing
       |    |--- static_aggregate_generated_routes
+      |    |    |--- static_routes.md
+      |    |    |--- aggregate_routes.md
+      |    |    |--- generated_routes.md    
       |    |--- martian_addresses
-```   |    |--- routing_instances 
+      |    |--- routing_instances 
       |    |--- load_balancing
       |    |--- filter_based_forwarding
       |
+```
