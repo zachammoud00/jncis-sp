@@ -22,6 +22,8 @@ Each lab directory contains:
 
 ## Repository Structure
 
+This repository will be follow the same structure as the Service Provider Routing and Switching, Specialist (JNCIS-SP) Certification Overview document on the HPE website (https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=14325).
+
 ```
 jncis-sp
 |
